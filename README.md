@@ -1,8 +1,11 @@
 Muscle activity assistor
 This project will help to develop an open source solution for creating a medical device which in theory will be able to help people with diseases like Parkinson to better control their movements.
 
-————————————————————————————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————————————————————————————
+Please join this discord channel if you would like to contribute to this project.
+https://discord.gg/wcjM9dCfVx
+
+——————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
 
 Goal: 
 
@@ -13,8 +16,9 @@ There are 3 basic requirements for the project
 2. To be able to contract and relax individuals muscles using external stimulus.
 3. To be able to predict muscle activity for a short interval in the future (10-100 ms) using the muscle activity data from the previous interval of (1-2s)
 
-————————————————————————————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+
 Research:
 
 is there a way to control human muscles from external stimulus?
@@ -38,8 +42,8 @@ how much voltage and current is required for EMS electrical muscle stimulation?
 50-500 microvolts or 1-500 milliamps depending on size and type of the muscle being stimulated
 
 
-————————————————————————————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
 
 Pending actions:
 
@@ -51,9 +55,9 @@ Pending actions:
 * Validate that if all of the 3 requirements are fulfilled then, the project can be helpful in assisting with some of the body functions of day to day life. [?]
 * Setup an open source project [-]
     * A GitHub repo for software related contributions [x]
-    * A Discord channel for creating a community of medical and software professionals [?]
+    * A Discord channel for creating a community of medical and software professionals [x]
 
 
 
-————————————————————————————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
+——————————————————————————————————————————————————————————
